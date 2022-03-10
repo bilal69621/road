@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="168px" height="80px" viewBox="0 0 168 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 8</title>
+    <g id="Member-Login" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Custom-Preset-Copy-4" transform="translate(-885.000000, -446.000000)">
+            <g id="Group-8" transform="translate(885.000000, 446.000000)">
+                <text id="Drag-to-change-locat" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="0.064" y="77">Drag to change location</tspan>
+                </text>
+                <g id="Group-2" transform="translate(61.000000, 0.000000)">
+                    <circle id="Oval" fill="#01E224" cx="23" cy="5" r="5"></circle>
+                    <ellipse id="Oval" fill="#01E224" cx="22" cy="47" rx="22" ry="7"></ellipse>
+                    <ellipse id="Oval-Copy-6" fill="#FFFFFF" cx="22" cy="47" rx="11" ry="3"></ellipse>
+                    <line x1="22.5" y1="46.5" x2="23" y2="7" id="Line" stroke="#01E224" stroke-width="2" stroke-linecap="square"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

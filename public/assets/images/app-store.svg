@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="193" height="58" viewBox="0 0 193 58">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="apple" d="M16.387,26h0a4.408,4.408,0,0,1-2.038-.548,5.5,5.5,0,0,0-2.386-.548h-.108a5.963,5.963,0,0,0-2.648.613A4.347,4.347,0,0,1,7.316,26H7.277c-1.929-.017-3.387-1.812-4.559-3.565a16.12,16.12,0,0,1-2.654-7.19A9.105,9.105,0,0,1,1.194,9.37a6.935,6.935,0,0,1,5.56-3.28,8.048,8.048,0,0,1,2.783.6A6.833,6.833,0,0,0,11.83,7.2a5.708,5.708,0,0,0,2.05-.482,7.97,7.97,0,0,1,3.009-.634,6.778,6.778,0,0,1,5.089,2.637,5.676,5.676,0,0,0,.771,10.354,18.7,18.7,0,0,1-1.72,3.152C19.79,24.083,18.27,25.981,16.387,26ZM11.112,6.258h0l-.113,0a5.209,5.209,0,0,1,1.32-4.117A6.28,6.28,0,0,1,16.367,0a5.662,5.662,0,0,1-1.289,4.221A5.347,5.347,0,0,1,11.112,6.258Z" transform="translate(0.001)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="app-store" transform="translate(-0.5)">
+    <rect id="_5._Button_7._Download_3._Filled_1._Apple_2._Dark_background" width="193" height="58" transform="translate(0.5)" fill="none"/>
+    <rect id="Solid-5" width="193" height="58" rx="29" transform="translate(0.5)" fill="none"/>
+    <g id="fill_color" transform="translate(0.5)">
+      <rect id="_3._Color_3._Light_1._Light_100_background-2" width="193" height="58" fill="none"/>
+    </g>
+    <g id="Group" transform="translate(0.5)">
+      <rect id="Solid-6" width="193" height="58" rx="29" fill="#fff"/>
+    </g>
+    <g id="App_Store" transform="translate(71.5 28)">
+      <text id="App_Store-2" data-name="App Store" transform="translate(0 14)" fill="#333" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">App Store</tspan></text>
+    </g>
+    <g id="Download_on_the" transform="translate(71.5 16)">
+      <text id="Download_on_the-2" data-name="Download on the" transform="translate(0 10)" fill="#333" font-size="10" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Download on the</tspan></text>
+    </g>
+    <g id="icon-2" transform="translate(35.5 16)">
+      <rect id="_2._Icon_3._Brand_apple_2._Light_background" width="26" height="26" fill="none"/>
+      <g id="Group_4" transform="translate(1.625)">
+        <path id="apple-2" d="M16.387,26h0a4.408,4.408,0,0,1-2.038-.548,5.5,5.5,0,0,0-2.386-.548h-.108a5.963,5.963,0,0,0-2.648.613A4.347,4.347,0,0,1,7.316,26H7.277c-1.929-.017-3.387-1.812-4.559-3.565a16.12,16.12,0,0,1-2.654-7.19A9.105,9.105,0,0,1,1.194,9.37a6.935,6.935,0,0,1,5.56-3.28,8.048,8.048,0,0,1,2.783.6A6.833,6.833,0,0,0,11.83,7.2a5.708,5.708,0,0,0,2.05-.482,7.97,7.97,0,0,1,3.009-.634,6.778,6.778,0,0,1,5.089,2.637,5.676,5.676,0,0,0,.771,10.354,18.7,18.7,0,0,1-1.72,3.152C19.79,24.083,18.27,25.981,16.387,26ZM11.112,6.258h0l-.113,0a5.209,5.209,0,0,1,1.32-4.117A6.28,6.28,0,0,1,16.367,0a5.662,5.662,0,0,1-1.289,4.221A5.347,5.347,0,0,1,11.112,6.258Z" transform="translate(0.001)" fill="none"/>
+        <g id="Mask_Group_4_Clipped" data-name="Mask_Group_4 Clipped">
+          <path id="apple-2-2" data-name="apple" d="M16.387,26h0a4.408,4.408,0,0,1-2.038-.548,5.5,5.5,0,0,0-2.386-.548h-.108a5.963,5.963,0,0,0-2.648.613A4.347,4.347,0,0,1,7.316,26H7.277c-1.929-.017-3.387-1.812-4.559-3.565a16.12,16.12,0,0,1-2.654-7.19A9.105,9.105,0,0,1,1.194,9.37a6.935,6.935,0,0,1,5.56-3.28,8.048,8.048,0,0,1,2.783.6A6.833,6.833,0,0,0,11.83,7.2a5.708,5.708,0,0,0,2.05-.482,7.97,7.97,0,0,1,3.009-.634,6.778,6.778,0,0,1,5.089,2.637,5.676,5.676,0,0,0,.771,10.354,18.7,18.7,0,0,1-1.72,3.152C19.79,24.083,18.27,25.981,16.387,26ZM11.112,6.258h0l-.113,0a5.209,5.209,0,0,1,1.32-4.117A6.28,6.28,0,0,1,16.367,0a5.662,5.662,0,0,1-1.289,4.221A5.347,5.347,0,0,1,11.112,6.258Z" transform="translate(0.001)" fill="none"/>
+          <g id="Mask_Group_4_Clipped-2" data-name="Mask_Group_4 Clipped" clip-path="url(#clip-path)">
+            <g id="Mask_Group_4" transform="translate(-2)">
+              <g id="icon_color-2" transform="translate(0.375)">
+                <rect id="_3._Color_2._Gray_2._Gray_20_background-2" width="26" height="26" fill="none"/>
+                <rect id="Gray_20-2" width="26" height="26" fill="#333"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

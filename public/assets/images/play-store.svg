@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="189" height="58" viewBox="0 0 189 58">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="google_play" d="M.68,26h0a1.677,1.677,0,0,1-.668-1.42V1.545A1.48,1.48,0,0,1,.621.154L12.99,13.019Zm1.027,0v0L13.5,13.558l3.567,3.711L2.028,25.842A2.585,2.585,0,0,1,1.707,26Zm16.029-9.109-3.724-3.874L17.734,9.1l5.119,2.908c.48.272.723.589.723.944a1.309,1.309,0,0,1-.723,1.019l-5.115,2.916v0ZM13.5,12.48,1.5,0a1.463,1.463,0,0,1,.525.172L17.069,8.719,13.5,12.479Z" transform="translate(0.988)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="play-store" transform="translate(-0.5)">
+    <rect id="_5._Button_7._Download_3._Filled_2._Google_2._Dark_background" width="189" height="58" transform="translate(0.5)" fill="none"/>
+    <rect id="Solid-3" width="189" height="58" rx="29" transform="translate(0.5)" fill="none"/>
+    <rect id="_3._Color_3._Light_1._Light_100_background" width="189" height="58" transform="translate(0.5)" fill="none"/>
+    <g id="Group" transform="translate(0.5)">
+      <rect id="Solid-4" width="189" height="58" rx="29" fill="#fff"/>
+    </g>
+    <g id="Google_Play-2" transform="translate(71.5 28)">
+      <text id="Google_Play-2-2" data-name="Google Play" transform="translate(0 14)" fill="#333" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Google Play</tspan></text>
+    </g>
+    <g id="Get_it_on" transform="translate(71.5 16)">
+      <text id="Get_it_on-2" data-name="Get it on" transform="translate(0 10)" fill="#333" font-size="10" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Get it on</tspan></text>
+    </g>
+    <g id="icon" transform="translate(35.5 16)">
+      <rect id="_2._Icon_3._Brand_google_play_2._Light_background" width="26" height="26" fill="none"/>
+      <g id="Group_5" transform="translate(0.623)">
+        <path id="google_play-3" d="M.68,26h0a1.677,1.677,0,0,1-.668-1.42V1.545A1.48,1.48,0,0,1,.621.154L12.99,13.019Zm1.027,0v0L13.5,13.558l3.567,3.711L2.028,25.842A2.585,2.585,0,0,1,1.707,26Zm16.029-9.109-3.724-3.874L17.734,9.1l5.119,2.908c.48.272.723.589.723.944a1.309,1.309,0,0,1-.723,1.019l-5.115,2.916v0ZM13.5,12.48,1.5,0a1.463,1.463,0,0,1,.525.172L17.069,8.719,13.5,12.479Z" transform="translate(0.988)" fill="none"/>
+        <g id="Mask_Group_5_Clipped" data-name="Mask_Group_5 Clipped">
+          <path id="google_play-3-2" data-name="google_play" d="M.68,26h0a1.677,1.677,0,0,1-.668-1.42V1.545A1.48,1.48,0,0,1,.621.154L12.99,13.019Zm1.027,0v0L13.5,13.558l3.567,3.711L2.028,25.842A2.585,2.585,0,0,1,1.707,26Zm16.029-9.109-3.724-3.874L17.734,9.1l5.119,2.908c.48.272.723.589.723.944a1.309,1.309,0,0,1-.723,1.019l-5.115,2.916v0ZM13.5,12.48,1.5,0a1.463,1.463,0,0,1,.525.172L17.069,8.719,13.5,12.479Z" transform="translate(0.988)" fill="none"/>
+          <g id="Mask_Group_5_Clipped-2" data-name="Mask_Group_5 Clipped" clip-path="url(#clip-path)">
+            <g id="Mask_Group_5" transform="translate(-1)">
+              <g id="icon_color" transform="translate(0.377)">
+                <rect id="_3._Color_2._Gray_2._Gray_20_background" width="26" height="26" fill="none"/>
+                <rect id="Gray_20" width="26" height="26" fill="#333"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

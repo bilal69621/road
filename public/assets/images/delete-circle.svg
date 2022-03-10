@@ -1,0 +1,7 @@
+<svg id="delete-circle" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Ellipse_128">
+    <circle id="Oval" cx="18" cy="18" r="18" fill="#fff"/>
+    <circle id="Oval-2" data-name="Oval" cx="17.5" cy="17.5" r="17.5" transform="translate(0.5 0.5)" fill="none" stroke="#ff6969" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+  <path id="icons8-trash" d="M1.515,11.61A1.008,1.008,0,0,1,.5,10.6V2.525H9.593V10.6a1.008,1.008,0,0,1-1.01,1.01ZM.5,1.51A.5.5,0,1,1,.5.5H3.532A.5.5,0,0,1,4.044,0h2.02a.5.5,0,0,1,.512.5H9.592a.5.5,0,0,1,0,1.01Z" transform="translate(12.995 12)" fill="#ff6969"/>
+</svg>

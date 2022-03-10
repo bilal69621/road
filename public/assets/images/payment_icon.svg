@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.335" height="13.607" viewBox="0 0 18.335 13.607">
+  <g id="payment_icon" transform="translate(0 0.5)">
+    <path id="Path_873" d="M1.576,0H15.759a1.576,1.576,0,0,1,1.576,1.576v9.455a1.576,1.576,0,0,1-1.576,1.576H1.576A1.576,1.576,0,0,1,0,11.031V1.576A1.576,1.576,0,0,1,1.576,0Z" transform="translate(0.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_874" d="M0,.5H17.334" transform="translate(0.5 4.228)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="camera" transform="translate(1 1)">
+    <circle id="Oval" cx="14.5" cy="14.5" r="14.5" fill="#33b1f9" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="Group_1244" transform="translate(8 9)">
+      <path id="Subtraction_1" d="M12,12H1.331A1.333,1.333,0,0,1,0,10.666v-8A1.335,1.335,0,0,1,1.331,1.335h2L4.666,0h4L10,1.335h2a1.337,1.337,0,0,1,1.336,1.331v8A1.335,1.335,0,0,1,12,12ZM6.666,10H6.7a3.278,3.278,0,0,0,2.333-.967,3.38,3.38,0,0,0,0-4.733A3.28,3.28,0,0,0,6.7,3.333H6.665l-.033,0A3.278,3.278,0,0,0,4.3,4.3a3.381,3.381,0,0,0,0,4.734A3.275,3.275,0,0,0,6.633,10Z" transform="translate(0.002 -0.001)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path" d="M2.332,0a2.333,2.333,0,1,0,1.65.683A2.333,2.333,0,0,0,2.332,0Z" transform="translate(4.334 4.333)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
